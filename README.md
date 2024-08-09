@@ -7,7 +7,7 @@
 <div align="center">
     <sup>More Info</sup>
     <br />
-  <sup>Copyright (c) 2021 Prasad_Yeole</sup>
+  <sup>Copyright (c) 2024 Tejas_Pandure</sup>
   
   Licensed Under The  [MIT License](https://github.com/Prasad-Yeole/Student_Management_System/blob/main/LICENSE)
   
