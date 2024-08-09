@@ -9,9 +9,6 @@
     <br />
   <sup>Copyright (c) 2024 Tejas_Pandure</sup>
   
-  Licensed Under The  [MIT License](https://github.com/Prasad-Yeole/Student_Management_System/blob/main/LICENSE)
-  
-  [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Prasad-Yeole/Customised_Virtual_File_System/blob/main/LICENSE)
   ![GitHub language count](https://img.shields.io/github/languages/count/Prasad-Yeole/Customised_Virtual_File_System?color=g&label=Languages)
   ![Platforms](https://img.shields.io/badge/Platforms-Linux_Windows-yellowgreen?style=flat-square)
   ![GitHub top language](https://img.shields.io/github/languages/top/Prasad-Yeole/Customised_Virtual_File_System?color=9cf)
@@ -83,14 +80,6 @@ System Programming Using C.
 
 ![](https://i.imgur.com/waxVImv.png)
 
-#
+
 
 ![](https://github.com/Prasad-Yeole/Customised_Virtual_File_System/blob/main/CVFS1.png)
-
-#
-
-![](https://github.com/Prasad-Yeole/Customised_Virtual_File_System/blob/main/CVFS2.png)
-
-#
-
-![](https://github.com/Prasad-Yeole/Customised_Virtual_File_System/blob/main/CVFS3.png)
